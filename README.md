@@ -1,6 +1,6 @@
 # Phoenix Template
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/jclem/phoenix-template/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/aymanosman/phoenix-template/tree/main)
 
 This repository contains the template I use for deploying Phoenix
 applications.
